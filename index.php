@@ -45,8 +45,8 @@
         $selectedFolder = sanitize_folder($_GET['folder']);
         // Database configuration - Update with your actual database credentials
         $dbHost = 'localhost';
-        $dbUser = 'root';
-        $dbPass = 'password';
+        $dbUser = 'afnan';
+        $dbPass = 'john_wick_77';
         $dbName = 'mywebsite_images';
 
         // Create a database connection
@@ -89,8 +89,8 @@
         $selectedFolder = sanitize_folder($_POST['folder']);
         // Database configuration - Update with your actual database credentials
         $dbHost = 'localhost';
-        $dbUser = 'root';
-        $dbPass = 'password';
+        $dbUser = 'afnan';
+        $dbPass = 'john_wick_77';
         $dbName = 'mywebsite_images';
 
         // Create a database connection
