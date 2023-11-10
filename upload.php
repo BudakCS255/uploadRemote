@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Database configuration
         $dbHost = 'localhost';
-        $dbUser = 'root'; // Replace with your MySQL username
+        $dbUser = 'afnan'; // Replace with your MySQL username
         $dbPass = 'john_wick_77'; // Replace with your MySQL password
         $dbName = 'mywebsite_images'; // Replace with your database name
         $imageColumnName = 'images'; // Replace with your BLOB column name
